@@ -38,10 +38,6 @@ More labs will be added as I continue learning Linux for cybersecurity.
 
 # Linux Permissions
 
-## File Permissions Format
-Example:
-
-
 ## chmod Examples
 - `chmod 755 file.txt`
 - `chmod 644 file.txt`
